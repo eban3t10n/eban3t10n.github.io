@@ -205,7 +205,7 @@ nav {
     font-weight: 600;
 }
 
-.cases img{
+.cases_container img{
     float: right;
     padding-top: 45px;
 }
@@ -256,11 +256,21 @@ nav {
     text-transform: uppercase;
 }
 
-.project p{
+.project_container p{
     padding-top: 10px;
     font-size: 17px;
     color: #3f495a;
 }
+
+.calculator{
+    margin-top: 100px;
+    width: 100%;
+}
+
+.calculator_container h2{
+    margin-top: 200px;
+}
+
 
 
 
